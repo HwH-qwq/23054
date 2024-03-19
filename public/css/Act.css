@@ -1,7 +1,11 @@
 .Summary{
     position: absolute;
-    margin: 30px 0 0 1000px;
+    margin: -10px 0 0 1100px;
     text-align: center;
+    color : #fff;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
 }
 
 .Details{
